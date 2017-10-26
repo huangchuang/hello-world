@@ -1,2 +1,5 @@
 # hello-world
-My helloworld repository to learn github operations
+
+Hi everyone!
+
+Frank here, I am C++ programmer and I love algorithms
